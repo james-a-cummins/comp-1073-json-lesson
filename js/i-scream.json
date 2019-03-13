@@ -13,7 +13,7 @@
         "dark chocolate chips",
         "vanilla extract"
       ],
-      "image": "coconut-cream-pie.png"
+      "image": "chocolate-mint.svg"
     },
     {
       "name": "Perfect Peach Mango",
@@ -24,7 +24,7 @@
         "mango chunks",
         "clover honey"
       ],
-      "image": "coconut-cream-pie.png"
+      "image": "peach-mango.svg"
     },
     {
       "name": "Stupendous Strawberry",
@@ -35,7 +35,7 @@
         "milk chocolate dip",
         "candy sprinkles"
       ],
-      "image": "coconut-cream-pie.png"
+      "image": "strawberry-sprinkle.svg"
     },
     {
       "name": "Coconut Cream Pie",
