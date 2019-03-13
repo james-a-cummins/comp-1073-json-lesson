@@ -36,6 +36,17 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Coconut Cream Pie",
+      "calories": 450,
+      "type": "ice cream",
+      "ingredients": [
+        "coconut",
+        "cream",
+        "pie"
+      ],
+      "image": "coconut-cream-pie.png"
     }
   ]
 }
