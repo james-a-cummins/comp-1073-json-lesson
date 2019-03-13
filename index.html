@@ -18,7 +18,7 @@
 		var header = document.querySelector('header');
 		var section = document.querySelector('section');
 		/* STEP 3: Store the URL of a JSON file in a variable */
-		var requestURL = 'https://smccrindle.github.io/comp1073-json/js/i-scream.json';
+		var requestURL = 'https://james-a-cummins.github.io/comp-1073-json-lesson/';
 		/* STEP 4: Create a new XHR object */
 		var request = new XMLHttpRequest();
 		/* STEP 5: Open a new request using the request() method */
@@ -47,7 +47,7 @@
 			// STEP 10b: Bind the JSON topFlavors object to a var
 			var topFlavors = jsonObj.topFlavors;
 			// STEP 10c: Loop through the topFlavors object
-			for(var i=0;i<topFlavors.length; i++) {
+			for(var i=0; i < topFlavors.length; i++) {
 				// STEP 10d: build HTML elements for the content
 				var article = document.createElement('article');
 				var h2 = document.createElement('h2');
